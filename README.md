@@ -8,3 +8,5 @@ To use it simply copy and paste the below to the bottom of your downloader.ini f
 [ajgowans/manualsdb-jaguar]
 db_url = https://raw.githubusercontent.com/ajgowans/manualsdb-jaguar/db/db.json.zip
 ```
+Or download this .ini file and put it in /media/fat
+https://github.com/ajgowans/manualsdb-jaguar/blob/db/downloader_ajgowans_manualsdb-jaguar.ini
